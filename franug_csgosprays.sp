@@ -4,8 +4,8 @@
 #include <clientprefs>
 #include <emitsoundany>
 
-#define SOUND_SPRAY_REL "*/player/sprayer.mp3"
-#define SOUND_SPRAY "player/sprayer.mp3"
+#define SOUND_SPRAY_REL "*/music/player/sprayer.mp3"
+#define SOUND_SPRAY "music/player/sprayer.mp3"
 
 #define MAX_SPRAYS 128
 #define MAX_MAP_SPRAYS 200
